@@ -1,0 +1,42 @@
+C:\Users\Ahmed El-Salawy\Documents\Visual Studio 2010\Projects\Pattern_Task_4\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe
+C:\Users\Ahmed El-Salawy\Documents\Visual Studio 2010\Projects\Pattern_Task_4\Pattern_Task_4\bin\Debug\Pattern_Task_4.pdb
+C:\Users\Ahmed El-Salawy\Documents\Visual Studio 2010\Projects\Pattern_Task_4\Pattern_Task_4\bin\Debug\MathNet.Numerics.dll
+C:\Users\Ahmed El-Salawy\Documents\Visual Studio 2010\Projects\Pattern_Task_4\Pattern_Task_4\bin\Debug\MathNet.Numerics.xml
+C:\Users\Ahmed El-Salawy\Documents\Visual Studio 2010\Projects\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed El-Salawy\Documents\Visual Studio 2010\Projects\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Form1.resources
+C:\Users\Ahmed El-Salawy\Documents\Visual Studio 2010\Projects\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Properties.Resources.resources
+C:\Users\Ahmed El-Salawy\Documents\Visual Studio 2010\Projects\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.csproj.GenerateResource.Cache
+C:\Users\Ahmed El-Salawy\Documents\Visual Studio 2010\Projects\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe
+C:\Users\Ahmed El-Salawy\Documents\Visual Studio 2010\Projects\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.pdb
+D:\Bioinforamatics\Fourth Year\First Semester\Pattern Recognitions\Assignments\Task 4\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe
+D:\Bioinforamatics\Fourth Year\First Semester\Pattern Recognitions\Assignments\Task 4\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.pdb
+D:\FCIS\Forth Year\Fourth Year\Pattern\Task 4\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe
+D:\FCIS\Forth Year\Fourth Year\Pattern\Task 4\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.pdb
+D:\FCIS\Forth Year\Fourth Year\Pattern\Task 4\Pattern_Task_4\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe
+D:\FCIS\Forth Year\Fourth Year\Pattern\Task 4\Pattern_Task_4\Pattern_Task_4\bin\Debug\Pattern_Task_4.pdb
+D:\FCIS\Forth Year\Fourth Year\Pattern\Task 4\Pattern_Task_4\Pattern_Task_4\bin\Debug\MathNet.Numerics.dll
+D:\FCIS\Forth Year\Fourth Year\Pattern\Task 4\Pattern_Task_4\Pattern_Task_4\bin\Debug\MathNet.Numerics.xml
+D:\FCIS\Forth Year\Fourth Year\Pattern\Task 4\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.csprojResolveAssemblyReference.cache
+D:\FCIS\Forth Year\Fourth Year\Pattern\Task 4\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Form1.resources
+D:\FCIS\Forth Year\Fourth Year\Pattern\Task 4\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Properties.Resources.resources
+D:\FCIS\Forth Year\Fourth Year\Pattern\Task 4\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe
+C:\Users\TOSHIBA\Desktop\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.pdb
+C:\Users\TOSHIBA\Desktop\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Form1.resources
+C:\Users\TOSHIBA\Desktop\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\Pattern_Task_4\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\Pattern_Task_4\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe
+C:\Users\TOSHIBA\Desktop\Pattern_Task_4\Pattern_Task_4\bin\Debug\Pattern_Task_4.pdb
+C:\Users\TOSHIBA\Desktop\Pattern_Task_4\Pattern_Task_4\bin\Debug\MathNet.Numerics.dll
+C:\Users\TOSHIBA\Desktop\Pattern_Task_4\Pattern_Task_4\bin\Debug\MathNet.Numerics.xml
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.pdb
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.pdb
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.dll
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.xml
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.csprojResolveAssemblyReference.cache
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Form1.resources
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Properties.Resources.resources
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.csproj.GenerateResource.Cache

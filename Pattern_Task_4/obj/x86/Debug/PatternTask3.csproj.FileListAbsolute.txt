@@ -1,0 +1,74 @@
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.csprojResolveAssemblyReference.cache
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Properties.Resources.resources
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.csproj.GenerateResource.Cache
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.Form1.resources
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.pdb
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.dll
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.xml
+D:\FCIS\Forth Year\First Semester\Pattern Recognition\Labs\Tasks\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.pdb
+F:\david4\speech\Project\3\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe
+F:\david4\speech\Project\3\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.pdb
+F:\david4\speech\Project\3\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe
+F:\david4\speech\Project\3\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.pdb
+F:\david4\speech\Project\3\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.dll
+F:\david4\speech\Project\3\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.xml
+F:\david4\speech\Project\3\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.csprojResolveAssemblyReference.cache
+F:\david4\speech\Project\3\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.Form1.resources
+F:\david4\speech\Project\3\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Properties.Resources.resources
+F:\david4\speech\Project\3\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.csproj.GenerateResource.Cache
+C:\Users\Abdullah\Desktop\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe
+C:\Users\Abdullah\Desktop\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.pdb
+C:\Users\Abdullah\Desktop\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe
+C:\Users\Abdullah\Desktop\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.pdb
+C:\Users\Abdullah\Desktop\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.dll
+C:\Users\Abdullah\Desktop\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.xml
+C:\Users\Abdullah\Desktop\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.Form1.resources
+C:\Users\Abdullah\Desktop\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.csproj.GenerateResource.Cache
+C:\Users\Abdullah\Desktop\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.csprojResolveAssemblyReference.cache
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.pdb
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.pdb
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.dll
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.xml
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.Form1.resources
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Properties.Resources.resources
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.csproj.GenerateResource.Cache
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.csprojResolveAssemblyReference.cache
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe.manifest
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.application
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe.manifest
+F:\david4\speech\Project\Final2\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.application
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.pdb
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe.manifest
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.application
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.pdb
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.dll
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.xml
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.csprojResolveAssemblyReference.cache
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.Form1.resources
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Properties.Resources.resources
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.csproj.GenerateResource.Cache
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe.manifest
+F:\david4\speech\Project\drive\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.application
+E:\FCIS\Fourth_Year\First Term\Speech Recognition\Final_working_project\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe
+E:\FCIS\Fourth_Year\First Term\Speech Recognition\Final_working_project\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.pdb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.pdb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe.manifest
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.application
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.exe
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\bin\Debug\Pattern_Task_4.pdb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.dll
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\bin\Debug\MathNet.Numerics.xml
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.csprojResolveAssemblyReference.cache
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.Form1.resources
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.Properties.Resources.resources
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\obj\x86\Debug\PatternTask3.csproj.GenerateResource.Cache
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.exe.manifest
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\pattern recognition\New WinRAR arsip\PatternTask3\Pattern_Task_4\obj\x86\Debug\Pattern_Task_4.application
